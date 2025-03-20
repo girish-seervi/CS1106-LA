@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Create a directory called "Backup" in Documents folder
-mkdir -p ~/Documents/Backup
+mkdir ~/Documents/Backup
 
 #Copy all .c files into the folder
 cp *.c ~/Documents/Backup/
